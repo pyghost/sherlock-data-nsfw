@@ -21,7 +21,7 @@
         "url": "https://onlyfans.com/{}",
         "urlMain": "https://onlyfans.com/",
         "username_claimed": "theemilylynne",
-        "username_unclaimed": "noonewouldeverusethis7"    
+        "username_unclaimed": "noonewouldeverusethis7"
     },
     "YouPorn": {
         "errorType": "status_code",
@@ -56,7 +56,7 @@
         "username_unclaimed": "noonewouldeverusethis77777"
     },
     "ChaturBate": {
-        "errorType": "status-code",
+        "errorType": "status_code",
         "rank": 20,
         "url": "https://chaturbate.com/{}",
         "urlMain": "https://chaturbate.com",
@@ -64,7 +64,7 @@
         "username_unclaimed": "noonewouldeverusethis77777"
     },
     "Gam1ng": {
-        "errorType": "status-code",
+        "errorType": "status_code",
         "rank": 20,
         "url": "https://gam1ng.com.br/user/{}",
         "urlMain": "https://gam1ng.com.br",
